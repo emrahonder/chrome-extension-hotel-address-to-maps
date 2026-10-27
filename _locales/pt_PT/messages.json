@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Morada do hotel no mapa",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Passe o cursor sobre a morada de um hotel no Booking.com para a abrir no Google Maps ou copiar.",
+    "description": "Extension description (max 132 chars)"
+  }
+}

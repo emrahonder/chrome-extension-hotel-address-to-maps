@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Otel Adresi Haritada",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Booking.com'da otel adresinin üzerine gelin; tek tıkla Google Maps'te açın veya kopyalayın.",
+    "description": "Extension description (max 132 chars)"
+  }
+}

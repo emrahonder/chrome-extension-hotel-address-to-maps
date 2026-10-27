@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Hoteladres naar Kaart",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Beweeg over een hoteladres op Booking.com om het te openen in Google Maps of met één klik te kopiëren.",
+    "description": "Extension description (max 132 chars)"
+  }
+}
