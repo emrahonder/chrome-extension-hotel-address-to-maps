@@ -10,6 +10,10 @@
 
 ---
 
+<p align="center">
+  <img src="store/screenshot.png" width="800" alt="Hovering the hotel address on Booking.com shows a card with Open in Google Maps and Copy buttons">
+</p>
+
 ## Why
 
 Copying a hotel's address from a Booking.com hotel page is surprisingly fiddly: the address is a clickable element that opens Booking's own map, so selecting the text is a struggle. This extension fixes that.
