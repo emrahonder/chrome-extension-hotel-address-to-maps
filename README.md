@@ -8,6 +8,10 @@
   A tiny Chrome extension that makes hotel addresses on Booking.com one click away from Google Maps.
 </p>
 
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/hotel-address-to-maps/banaaeapljhjmnicogifledangekicma"><b>Install from the Chrome Web Store</b></a>
+</p>
+
 ---
 
 <p align="center">
@@ -28,6 +32,10 @@ Copying a hotel's address from a Booking.com hotel page is surprisingly fiddly: 
 - **Private by design** – no permissions beyond Booking.com hotel pages, no tracking, no network requests, no data collection.
 
 ## Installation
+
+### Chrome Web Store (recommended)
+
+[**Add Hotel Address to Maps to Chrome**](https://chromewebstore.google.com/detail/hotel-address-to-maps/banaaeapljhjmnicogifledangekicma) and you're done. Updates are installed automatically.
 
 ### From source (developer mode)
 
